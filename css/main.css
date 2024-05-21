@@ -2176,6 +2176,24 @@ header .logo a {
 	background: #50D890;
 }
 
+i.fa.fa-linkedin-square:hover{
+	transition: ease .2s;
+	color: #0a60da;
+}
+
+i.fa.fa-instagram:hover{
+	transition: ease .5s;
+	background: #4967D5;
+	background: linear-gradient(to right, #4967D5 3%, #F9792A 20%, #D92E7D 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+i.fa.fa-github-square:hover{
+	transition: ease .2s;
+	color: #fff;
+}
+
 
 /** 
  * ===================================================================
